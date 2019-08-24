@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="472f4171-9063-45b3-988e-26b3418ca3b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../- Daily Practice -/TDDPractice-BounceCalc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../- Daily Practice -/TDDPractice-BounceCalc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/RomanNumeralsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/RomanNumeralsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="472f4171-9063-45b3-988e-26b3418ca3b9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/RomanNumeralsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-936">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="756">
+              <caret line="82" column="70" lean-forward="true" selection-start-line="82" selection-start-column="70" selection-end-line="82" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#416#417#0" expanded="true" />
@@ -84,7 +81,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566562056805" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566562058169" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
@@ -214,8 +211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/RomanNumeralsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="756">
+          <caret line="82" column="70" lean-forward="true" selection-start-line="82" selection-start-column="70" selection-end-line="82" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#416#417#0" expanded="true" />
