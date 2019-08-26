@@ -70,6 +70,7 @@ public class RomanNumeralsTest {
     }
 
     private String toRoman(int number) {
+        int storedNum = number;
         String output = ""; //Output Roman Value
         while(number != 0) {
             if (number >= 1000) { number -= 1000; output += "M"; }
@@ -92,6 +93,7 @@ public class RomanNumeralsTest {
                 }
             }
         }
+        System.out.println("The roman value of " + storedNum + " is: " + output);
         return output;
     }
 }
