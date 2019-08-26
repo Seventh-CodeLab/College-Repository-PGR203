@@ -31,7 +31,7 @@ public class TestPirateName {
             char a = input.charAt(i); //Shorter variable for character specification
 
             // As long as it's NOT a vowel
-            if(!isVowel(input.charAt(i))){
+            if(!isVowel(a)){
                 //Set the first capital letter
                 if(i == 0){
                     pirateName += Character.toUpperCase(a) + "o" + Character.toLowerCase(a);
