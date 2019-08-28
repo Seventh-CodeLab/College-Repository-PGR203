@@ -16,6 +16,7 @@ public class RomanNumeralsTest {
 
     @Test
     void Fourties(){
+        assertEquals("XL", toRoman(40));
         assertEquals("XLVI", toRoman(46));
     }
 
@@ -82,7 +83,7 @@ public class RomanNumeralsTest {
                 else {
                     if (number >= 90) { number -= 90; output += "XC"; }
                     if (number >= 50) { number -= 50; output += "L"; }
-                    if (number > 40) { number -= 40; output += "XL"; }
+                    if (number >= 40) { number -= 40; output += "XL"; }
                     if (number >= 10) { number -= 10; output += "X"; }
                     else {
                         if (number >= 9) { number -= 9; output += "IX"; }
